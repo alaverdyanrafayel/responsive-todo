@@ -1,0 +1,56 @@
+.container{
+  width:400px;
+  height:750px;
+  border:2px solid black;
+  margin:25px auto
+}
+.insideContainer{
+  width:250px;
+  height:750px;
+  margin:25px auto
+}
+.header-wrapper{
+  width:245px;
+  height:50px;
+  border:3px solid lightgreen;
+  margin-bootom:25px
+}
+.header-wrapper h3{
+  display:table;
+  margin:15px auto
+}
+.input-wrapper{
+  width:245px;
+  height:50px;
+  border:3px solid blue;
+  margin-top:25px
+}
+.input-wrapper input{
+  width:200px;
+  height:44px
+}
+.input-wrapper button{
+  width:40px;
+  height:49px;
+  cursor:pointer
+}
+.item-wrapper{
+  display:table;
+  width:245px;
+  height:500px;
+  border:3px solid red;
+  margin-top:50px
+}
+.list{
+  width:250px;
+  height:44px;
+  border:1px solid green;
+  margin-bottom:15px
+}
+.list button{
+  float:right;
+  margin-top:8px
+}
+.list span{
+  margin-top:8px
+}
